@@ -1,0 +1,11 @@
+{
+    "name": "DavidLoggings",
+    "version": "1.0.0",
+    "description": "A middleware to log every request happening on any endpoint in a Node.js server",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Wael Houry",
+    "license": "MIT"
+}
